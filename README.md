@@ -1,6 +1,6 @@
 - Hi, I’m @justinschreiner
-- I’m interested in blockchain technology.
-- I’m a co-founder @ClearContracts, building Clarity, a no-code DAO tooling platform on Cardano.
-- I’m looking to collaborate with others who are lowering the barrier to entry to interact with blockchain technology.
-- How to reach me: justin@clearcontracts.io
+- I’m interested in implementing AI into traditional business workflows.
+- I’m a co-founder @ClearContracts, we're building West Palm AI, providing businesses managed AI services.
+- We also built Clarity, a governance and treasury management platform on Cardano.
+- How to reach me: justin@westpalmai.com
 
